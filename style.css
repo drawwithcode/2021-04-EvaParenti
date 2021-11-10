@@ -1,8 +1,15 @@
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
 }
 
 canvas {
   display: block;
+}
+
+.my-button {
+  width: 150px;
+  background-color: pink;
+  border-radius: 5px;
 }
